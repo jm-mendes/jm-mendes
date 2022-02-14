@@ -5,7 +5,7 @@
 
 - 👋 Hi there, I’m @jm-mendes. I'm Civil Engineer. I'm 28 y.o. (2021) and counting!
 - 👀 I’m interested in learning and practising about IT.
-- 🌱 I’m currently learning about full stacks skills and I hope having contact in projects soon.
+- 🌱 I’m currently learning about full stacks skills and I hope having touch with projects soon.
 - 📫 You can reach me sending a e-mail to  <a href=mailto:jm.mendes@live.com> jm.mendes@live.com </a>! I'll be glad in contact you!
 
 By now, I've got: 
