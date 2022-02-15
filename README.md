@@ -18,7 +18,7 @@ By now, I've got:
 <li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/148783fad0b4f453e725a2f29dfc35a1b2875669839aec46c39b240fa8873652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666"><img src="https://camo.githubusercontent.com/148783fad0b4f453e725a2f29dfc35a1b2875669839aec46c39b240fa8873652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&amp;logo=javascript&amp;logoColor=fff" style="max-width: 100%;"></a></li>
 <ul>
 <br>
-:hourglass: <strong> ... </strong>
+  <h3> :hourglass: <strong> ... </strong> </h3>
 <br>
 
 <!---
